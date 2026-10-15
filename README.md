@@ -82,12 +82,16 @@ const rachit = {
 ---
 ## 🚀 Featured project
  
+**[keybid](https://github.com/Alclr-net/keybid)**: a full-stack biding place for marketing product. *(Update this line once the keybid README explains what it does.)*
 **[feedy](https://github.com/Alclr-net/feedy)**: a full-stack TypeScript app built with Next.js. *(Update this line once the feedy README explains what it does.)*
  
 ---
-## 📊 GitHub activity
+## 📊 General activity
  
 ![Last commit](https://img.shields.io/github/last-commit/Alclr-net/feedy?label=feedy%20last%20commit)
- 
+![Code Time](https://img.shields.io/badge/Code_Time-0_hrs_0_mins-007EC6?labelColor=555)
+![Profile Views](https://komarev.com/ping/?username=Alclr-net&label=Profile+Views&color=007EC6&style=flat)
+![Lines of Code](https://img.shields.io/badge/From_Hello_World_I've_Written-0_lines_of_code-007EC6?labelColor=555)
+
 <img src="https://github-readme-stats.vercel.app/api?username=Alclr-net&show_icons=true&theme=dark" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com/?user=Alclr-net&theme=dark" alt="GitHub streak" />
