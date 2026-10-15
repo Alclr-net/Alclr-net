@@ -11,8 +11,58 @@
 ![Goal](https://img.shields.io/badge/Goal-Forward_Deployed_Engineer-blueviolet)
 ![Open to](https://img.shields.io/badge/Open_to-Opportunities-brightgreen)
 
-## 📫 Like to meet me?
+##Like to meet me?
  
 Pick a slot if you'd like to chat about learning to code, switching from commerce to tech, or anything you're passionate about. Please describe the agenda when booking.
 
 [![Book a 30 min chat](https://img.shields.io/badge/Book-30%20min%20chat-black?logo=googlecalendar&logoColor=white)](https://cal.com/YOUR-CAL-USERNAME/30min)
+
+---
+ 
+## 🌱 A little more about me...
+ 
+```js
+const rachit = {
+  name: "Rachit Seth",
+  background: "self-taught Engineer",
+  goal: "Forward Deployed Engineer (AI)",
+ 
+  languages: ["Rust", "C++", "Python", "Go", "TypeScript", "JavaScript"],
+ 
+  askMeAbout: [
+    "How to build system",
+    "How to design components",
+    "How to scale systems",
+    "About Database",
+    "learning DSA from scratch",
+    "Next.js and full-stack TypeScript",
+    "moving from commerce to software",
+  ],
+ 
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS","Motion","GSAP","Web-GL"],
+      uiLibraries: ["shadcn/ui"],
+    },
+    tooling: ["Bun", "ESLint", "Prettier", "Git & GitHub", "Vercel"],
+    backend:["Rust","Go","Typescript"],
+    Aws Wrapper:["supabase"],
+    Database:["supabase","Mongo-DB","Postgres","MySQL"]
+  },
+ 
+  currentlyLearning: [
+    "AI engineering: LLM APIs, tool use, RAG, evaluation",
+    "Data Structures & Algorithms",
+    "Backend engineering: APIs, databases, auth, scaling, loadbalancing",
+    "System Design: HLD,LLD"
+  ],
+ 
+  currentFocus: "Building a solid solution using this technology and my knowledge",
+ 
+  funFact: "Add your own here",
+};
+```
+ 
+---
+ 
