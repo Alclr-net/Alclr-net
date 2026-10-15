@@ -1,5 +1,5 @@
 # 👋 Hi world, I'm Rachit Seth!
-*Founder at Converzion(A software company)*
+*Founder at Converzion (A software company)*
 ---
 [![Follow](https://img.shields.io/github/followers/Alclr-net?style=social)](https://github.com/Alclr-net)
 [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
