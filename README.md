@@ -10,4 +10,9 @@
 ![Learning](https://img.shields.io/badge/Currently-Learning_DSA-green)
 ![Goal](https://img.shields.io/badge/Goal-Forward_Deployed_Engineer-blueviolet)
 ![Open to](https://img.shields.io/badge/Open_to-Opportunities-brightgreen)
-![Profile views](https://komarev.com/ping/?username=Alclr-net&label=Profile+views&color=blue)
+
+## 📫 Like to meet me?
+ 
+Pick a slot if you'd like to chat about learning to code, switching from commerce to tech, or anything you're passionate about. Please describe the agenda when booking.
+
+[![Book a 30 min chat](https://img.shields.io/badge/Book-30%20min%20chat-black?logo=googlecalendar&logoColor=white)](https://cal.com/YOUR-CAL-USERNAME/30min)
