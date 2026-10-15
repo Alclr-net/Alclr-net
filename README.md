@@ -66,3 +66,28 @@ const rachit = {
  
 ---
  
+## 🛠️ Tech stack
+ 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+ 
+---
+## 🚀 Featured project
+ 
+**[feedy](https://github.com/Alclr-net/feedy)**: a full-stack TypeScript app built with Next.js. *(Update this line once the feedy README explains what it does.)*
+ 
+---
+## 📊 GitHub activity
+ 
+![Last commit](https://img.shields.io/github/last-commit/Alclr-net/feedy?label=feedy%20last%20commit)
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Alclr-net&show_icons=true&theme=dark" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com/?user=Alclr-net&theme=dark" alt="GitHub streak" />
