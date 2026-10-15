@@ -11,7 +11,7 @@
 ![Goal](https://img.shields.io/badge/Goal-Forward_Deployed_Engineer-blueviolet)
 ![Open to](https://img.shields.io/badge/Open_to-Opportunities-brightgreen)
 
-##Like to meet me?
+## 😗Like to meet me?
  
 Pick a slot if you'd like to chat about learning to code, switching from commerce to tech, or anything you're passionate about. Please describe the agenda when booking.
 
