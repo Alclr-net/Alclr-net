@@ -83,8 +83,8 @@ const rachit = {
 ## 🚀 Featured project
  
 **[keybid](https://github.com/Alclr-net/keybid)**: a full-stack biding place for marketing product. *(Update this line once the keybid README explains what it does.)*
-**[feedy](https://github.com/Alclr-net/feedy)**: a full-stack TypeScript app built with Next.js. *(Update this line once the feedy README explains what it does.)*
- 
+
+
 ---
 ## 📊 General activity
  
